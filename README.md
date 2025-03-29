@@ -55,3 +55,5 @@ This project provides an in-depth analysis of ASOS, focusing on customer and emp
 5.  Leverage strategic retail partnerships.
     
 6.  Invest in technology to improve the online experience.
+
+Kindly read the report for full details, dashboards and visualizations
